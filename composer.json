@@ -1,4 +1,6 @@
 {
+	"name": "mediawiki/extensions-google-analytics",
+	"description": "The Google Analytics Integration extension inserts Google Universal Analytics (and/or other web analytics) tracking code in every page viewed. Exclusion of specific pages, namespaces, special pages and all pages for specific groups of users is configurable."
 	"require-dev": {
 		"jakub-onderka/php-parallel-lint": "1.0.0",
 		"jakub-onderka/php-console-highlighter": "0.3.2",
